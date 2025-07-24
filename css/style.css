@@ -789,3 +789,21 @@ footer {
     z-index: 1;
 }
 
+@media (min-width:700px) {
+  .text-18{
+    font-size: 18px!important;
+    font-weight: 400!important;
+  }
+  .bold{
+     font-weight: 400!important;
+  }
+}
+@media (max-width:699px) {
+  .text-18{
+    font-size: 13px;
+    font-weight: 100;
+  }
+   .bold{
+     font-weight: 400!important;
+  }
+}
