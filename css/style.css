@@ -800,8 +800,8 @@ footer {
 }
 @media (max-width:699px) {
   .text-18{
-    font-size: 13px;
-    font-weight: 100;
+    font-size: 12px;
+    font-weight: 400;
   }
    .bold{
      font-weight: 400!important;
